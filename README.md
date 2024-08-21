@@ -1,10 +1,8 @@
-# Python for Data Science - Coursera
+# Certifications
 
 This repository contains my notes, projects, and exercises from my certification courses on Coursera.
 
 ## Certificate of Completion
 
-![Python for Data Science Certificate]()
-
-[View Certificate](link-to-coursera-certificate)
+[View Certificate for Python for Data Science](https://github.com/ArefMilani/Coursera_Certifications/blob/main/certificates/python_for_data_science.pdf)
 
